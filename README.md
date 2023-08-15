@@ -1,5 +1,8 @@
 <img src="https://raw.githubusercontent.com/PricelessToolkit/UNIProg_Programmer/main/img/3D-Ren.jpg" width="830" height="175"/>
-# UNIProg_Programmer UPDI/UART
+
+# UNIProg Programmer UPDI/UART
+
+UNIProg is a straightforward yet adaptable programmer. It enables programming for the latest Attiny microcontrollers through UPDI and, of course, supports ESPs and other microcontrollers with a UART programming connection. You can easily select the programming mode using a jumper.
 
 - Specs
 - - USB-C Connector "Static Discharge Protection" 
@@ -8,3 +11,6 @@
 - - Programming Mode Serial or Serial2UPDI, Selectable via Jumper
 - - Auto reset "ESP Enters download mode* Depends on ESP board"
 
+- Where to Buy
+- - You can purchase UNIProg from my shop https://www.pricelesstoolkit.com/en/projects/33-uniprog-uartupdi-programmer-33v.html 
+- - Alternatively, you also have the option to build it yourself, as it's entirely open source.
