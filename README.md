@@ -1,6 +1,10 @@
 <img src="https://raw.githubusercontent.com/PricelessToolkit/UNIProg_Programmer/main/img/3D-Ren.jpg" width="830" height="175"/>
 
-🤗 If you value the effort I've put into crafting this open-source project and would like to show your support, consider subscribing to my [YouTube channel](https://www.youtube.com/channel/UCz75N6inuLHXnRC5tqagNLw). Your subscription goes a long way in backing my work.
+🤗 Please consider subscribing to my [YouTube channel](https://www.youtube.com/@PricelessToolkit/videos)
+Your subscription goes a long way in backing my work.
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U2QLAF8)
 
 # UNIProg Programmer UPDI/UART
 
